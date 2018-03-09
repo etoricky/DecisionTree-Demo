@@ -10,4 +10,4 @@
 
 ## Output
 
-	![alt text](entropy.png)
+![entropy](entropy.png)
