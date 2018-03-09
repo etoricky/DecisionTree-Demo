@@ -7,3 +7,7 @@
 	Python 3 (Anaconda 3, Jupyter Notebook)
 	Pandas, SciKit-Learn
 	pydotplus for turning the decision tree to PNG
+
+## Output
+
+	![alt text](entropy.png)
